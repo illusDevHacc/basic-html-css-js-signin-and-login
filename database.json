@@ -1,0 +1,16 @@
+{
+    "examle@gmail.com":{
+        "password":"87654321",
+        "privateacc":"False",
+        "friends":[],
+        "follower":0,
+        "follows":0
+    },
+    "example@gmail.com":{
+        "password":"12345678",
+        "privateacc":"False",
+        "friends":[],
+        "follower":0,
+        "follows":0
+    }
+}
